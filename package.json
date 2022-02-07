@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npm i -g @angular/core @angular/cli i bootstrap@5.0.2 jquery@3.6.0 @popperjs/core@2.9.2; ng version"
+    "start": "npm i -g @angular/core @angular/cli i bootstrap jquery@3.6.0 @popperjs/core@2.9.2; ng version"
   },
   "repository": {
     "type": "git",
@@ -18,3 +18,4 @@
   },
   "homepage": "https://github.com/YanHenrique1/teste#readme"
 }
+
