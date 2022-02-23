@@ -1,0 +1,19 @@
+.position {
+    padding-left: 160px;
+    padding-top: 10px;
+}
+
+.img {
+    width: 800px;
+    height: 600px;
+}
+
+.img2{
+    width: 400px;
+    height: 250px;
+   margin-left: 50px;
+}
+
+div.row > h3 {
+    color: white;
+}
