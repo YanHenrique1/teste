@@ -16,8 +16,18 @@
 }
 
 div.row > h3 {
-    color: white;
+    color: rgb(247, 239, 239);
     border-radius: 100px;
+    margin-left: 24px;
+    padding-top: 19px;
+}
+
+div.row>h2{
+    margin-left: 14px;
+    padding-top: 10px;
+    color: white;
+    background-color: rgb(233, 118, 118);
+
 }
 
 .preco {
