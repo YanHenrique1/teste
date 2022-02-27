@@ -1,8 +1,50 @@
 .container{
     width: 500px;
     height: 600px;
-    background-color: rgb(233, 80, 80);
-    color: white;
+    background-color: rgb(243, 101, 101);
     border-radius: 20px;
     text-shadow: 3cm, 2cm black;
+}
+
+.p2{
+    color: black;
+    border-radius: 5px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 4px;
+    background-color: white;
+
+}
+
+.col3{
+    padding-top: 10px;
+
+}
+
+.col2{
+    padding-top: 10px;
+    color: white;
+    font-size: 18px;
+    width: 450px;
+    padding-left: 55px;
+    padding-right: 27px;
+}
+
+
+.p{
+    align-content: center;
+    padding-left: 175px;
+    padding-bottom: 20px;
+    color: white;
+
+}
+
+.textboxcss{
+    color: black;
+    border: 1px solid;  
+    box-shadow: none;
+    border-color: white;
+    text-shadow: none;
+    width: fill;
+    outline-color: white;
 }
