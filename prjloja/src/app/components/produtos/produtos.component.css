@@ -1,0 +1,22 @@
+.img {
+    padding-top: 10px;
+    width: 290px;
+    height: 250px;
+    padding-left: 13px;
+}
+
+.h2{
+    padding-top: 15px;
+    padding-left: 28px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(167, 52, 52);
+}
+
+.preco{
+    background-color: rgb(43, 194, 43);
+    color: white;
+    padding: 4px;
+    font-size: 19px;
+    border-radius: 5px;
+}

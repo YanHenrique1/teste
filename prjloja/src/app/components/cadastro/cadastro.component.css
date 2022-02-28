@@ -28,6 +28,15 @@
     
 }
 
+.botao{
+    padding-top: 50px;
+}
+
+.linik{
+    color: black;
+    text-decoration: none;
+}
+
 .col3{
     padding-top: 10px;
 
@@ -46,7 +55,7 @@
 
 .p{
     align-content: center;
-    padding-left: 175px;
+    padding-left: 185px;
     padding-bottom: 10px;
     color: white;
 

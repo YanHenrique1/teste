@@ -1,1 +1,26 @@
-<p>Mouse Raptor DPI green</p>
+<h2 class="h2 pb-4">Produtos</h2>
+<div class="row" style="padding-left: 30px; padding-right: 30px;">
+    <div *ngFor="let l of produto; index as i"  class="col pb-4">
+      <div class="card cardStyle">
+          <div class="row">
+            <div class="col">
+            
+            </div>
+                <div class="col">
+
+                <img [src]="l.img" class="img">
+                
+            </div>
+                <div class="col">
+
+            </div>
+        
+            <div class="card-body">
+                <h5 class="card-title pt-2">{{l.nome}}</h5>
+                <span class="preco"> {{l.preco}}</span>
+                <div class="d-grid gap-2 pt-2">
+                <button type="button" class="btn btn-outline-dark">VER OFERTA</button>
+            </div>
+        </div>
+    </div>
+</div>

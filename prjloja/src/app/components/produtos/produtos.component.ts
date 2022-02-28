@@ -8,34 +8,34 @@ import { Component, OnInit } from '@angular/core';
 export class ProdutosComponent implements OnInit {
 
   produto = [{
-    nome: '',
-    preco: '',
-    img: ''
+    nome: 'Mouse RGB Red',
+    preco: 'R$80,99',
+    img: '../assets/images/Raptor OM.png'
   },
   {
-    nome: '',
-    preco: '',
-    img: ''
+    nome: 'Mouse RGB raptor',
+    preco: 'R$75,99',
+    img: '../assets/images/raptor mouse.png'
   },
   {
-    nome: '',
-    preco: '',
-    img: ''
+    nome: 'Mouse RGB green',
+    preco: 'R$85,59',
+    img: '../assets/images/mouse optico.png'
   },
   {
-    nome: '',
-    preco: '',
-    img: ''
+    nome: 'Mouse multi RGB colours',
+    preco: 'R$118,99',
+    img: '../assets/images/mouse dpi rgb.png'
   },
   {
-    nome: '',
-    preco: '',
-    img: ''
+    nome: 'Gabinete F05',
+    preco: 'R$475,99',
+    img: '../assets/images/gabinete-add4.png'
   },
   {
-    nome: '',
-    preco: '',
-    img: ''
+    nome: 'MT-G70',
+    preco: 'R$430,99',
+    img: '../assets/images/gabinete3.png'
   },
 ]
 

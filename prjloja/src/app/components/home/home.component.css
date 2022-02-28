@@ -37,3 +37,9 @@ div.row>h2{
     background-color: rgb(228, 236, 234);
     border-radius: 10px;
 }
+
+.linkprod{
+    padding-bottom: 10px;
+    text-decoration: none;
+    color: white;
+}
