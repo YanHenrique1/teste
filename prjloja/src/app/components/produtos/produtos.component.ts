@@ -7,6 +7,39 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ProdutosComponent implements OnInit {
 
+  produto = [{
+    nome: '',
+    preco: '',
+    img: ''
+  },
+  {
+    nome: '',
+    preco: '',
+    img: ''
+  },
+  {
+    nome: '',
+    preco: '',
+    img: ''
+  },
+  {
+    nome: '',
+    preco: '',
+    img: ''
+  },
+  {
+    nome: '',
+    preco: '',
+    img: ''
+  },
+  {
+    nome: '',
+    preco: '',
+    img: ''
+  },
+]
+
+
   constructor() { }
 
   ngOnInit(): void {

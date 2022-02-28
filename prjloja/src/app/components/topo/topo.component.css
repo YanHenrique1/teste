@@ -1,9 +1,13 @@
 .position {
-    padding-left: 160px;
+    padding-left: 110px;
     padding-top: 10px;
 }
 
 div.row > div.col > a {
     text-decoration: none;
     color: rgb(131, 26, 26);
+}
+
+.row{
+    background-color: white;
 }

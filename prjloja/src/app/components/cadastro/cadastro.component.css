@@ -9,11 +9,23 @@
 .p2{
     color: black;
     border-radius: 5px;
-    padding-top: 4px;
-    padding-bottom: 4px;
+    padding-top: 1px;
+    padding-bottom: 0px;
     padding-left: 4px;
     background-color: white;
 
+}
+
+.botaocss{
+    color: black;
+    border: 1px solid;  
+    border-color: white;
+    width: 145px;
+    height: 40px;  
+    outline-color: white;
+    border-radius: 5px;
+    
+    
 }
 
 .col3{
@@ -22,19 +34,20 @@
 }
 
 .col2{
-    padding-top: 10px;
+    padding-top: 4px;
     color: white;
     font-size: 18px;
     width: 450px;
+    border-radius: 5px;
     padding-left: 55px;
-    padding-right: 27px;
+    padding-right: 25px;
 }
 
 
 .p{
     align-content: center;
     padding-left: 175px;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
     color: white;
 
 }
@@ -47,4 +60,5 @@
     text-shadow: none;
     width: fill;
     outline-color: white;
+    border-radius: 5px;
 }
