@@ -1,6 +1,6 @@
 .position {
     padding-left: 110px;
-    padding-top: 10px;
+    padding-top: 15px;
 }
 
 div.row > div.col > a {
@@ -10,4 +10,8 @@ div.row > div.col > a {
 
 .row{
     background-color: white;
+}
+
+.titulo{
+    padding-left: 10px;
 }
